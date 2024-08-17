@@ -13,7 +13,7 @@ export default {
         background: "#ECF0F1",
       },
       backgroundImage: {
-        article: "url('article.jpg')",
+        article: "url('/public/article.jpg')",
       },
     },
     container: {
